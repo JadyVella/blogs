@@ -33,3 +33,4 @@ To view this application, follow this link ***https://blogs222-1.herokuapp.com/*
 * Flask
 
 # Contact information
+* Email: felixouma379@gmail.com
