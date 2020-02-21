@@ -27,3 +27,5 @@ The person who created this application and designed is Felix Ouma
 
 # Set Up Instruction
 To view this application, follow this link ***https://blogs222-1.herokuapp.com/***
+
+# Technologies
