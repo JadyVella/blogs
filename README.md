@@ -23,3 +23,4 @@ Then:
 * A writer should update or delete blogs created
 
 # Author Information
+The person who created this application and designed is Felix Ouma
