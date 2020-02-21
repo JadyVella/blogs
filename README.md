@@ -1,1 +1,2 @@
-# Profject name
+# Project name
+blogs
