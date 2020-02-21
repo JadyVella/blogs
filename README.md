@@ -34,3 +34,4 @@ To view this application, follow this link ***https://blogs222-1.herokuapp.com/*
 
 # Contact information
 * Email: felixouma379@gmail.com
+* Phone No: +254792231660
