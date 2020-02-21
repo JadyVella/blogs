@@ -30,3 +30,6 @@ To view this application, follow this link ***https://blogs222-1.herokuapp.com/*
 
 # Technologies
 * Python3.7
+* Flask
+
+# Contact information
